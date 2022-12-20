@@ -1,0 +1,106 @@
+body {
+font-family:'tw_cen_mt_condensedregular', Arial, sans-serif;
+  height: 100VH;
+}
+
+.nav-item {
+    margin-right: 5rem;
+    font-size: xx-large !important;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: gray;
+    }
+
+.JumboText h1 {
+    font-size: 8rem;
+    margin-bottom: -2rem !important;
+    font-weight: bold;
+}
+
+.JumboSubText h2 {
+    font-size: 5rem;
+}
+
+.landingpage {
+    height: 100%;
+}
+
+.doppio {
+    color: #8c7454;
+}
+
+.jumboflex {
+    height: 80%;
+}
+
+.headingtext h1 {
+    font-size: 6rem;
+    color: white;
+    margin-bottom: -2rem !important;
+}
+
+.headingtext2 h1 {
+    font-size: 3rem;
+    color: white;
+    margin-bottom: -2rem !important;
+}
+
+.headingtext h2 {
+    font-size: 3.7rem;
+    color: #684E45; 
+}
+
+.textfield {
+    font-size: 2rem;
+    color: white;
+}
+
+.btn-leeswijzer {
+    font-size: larger;
+    background-color: none;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    margin-right: 30px;
+}
+
+.btn-leeswijzer:hover {
+    font-size: larger;
+    background-color: none;
+    border-color: #684E45;
+    border-width: 2px;
+    color: #684E45;
+  
+}
+
+.btn-pdf {
+    font-size: larger;
+    background-color: none;
+    border-color: #684E45;
+    border-width: 2px;
+    color: #684E45;
+    margin-right: 30px;
+}
+
+.btn-pdf:hover {
+    font-size: larger;
+    color: white !important;
+    background-color: #897169;
+    border-color: #897169;
+    border-width: 2px;
+    color: #897169;
+  
+}
+
+a {
+    color: #8c7454;
+}
